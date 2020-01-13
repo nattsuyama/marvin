@@ -1,5 +1,4 @@
-function nomeDeVolta(){ 
-    console.log("marvin"), 
-    console.log("o andróide paranóide")}
-
-nomeDeVolta()
+function nomeDeVolta() {
+const nomeDeVolta = ("Marvin");
+console.log(nomeDeVolta());
+return ("O andróide paranóide")}
