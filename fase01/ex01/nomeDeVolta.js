@@ -1,4 +1,4 @@
-function nomeDeVolta() {
-const nomeDeVolta = ("Marvin");
-console.log(nomeDeVolta());
-return ("O andróide paranóide")}
+function nomeDeVolta(){
+    console.log("Marvin");
+    var Marvin = ("O andróide paranóide");
+    return console.log ("O andróide paranóide")}
