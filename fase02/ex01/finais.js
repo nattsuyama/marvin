@@ -1,4 +1,4 @@
 function finais(palavra) {
-var str = "Ford Prefect";
+var str = palavra;
 return str.substr(-3)
-}
+} 
